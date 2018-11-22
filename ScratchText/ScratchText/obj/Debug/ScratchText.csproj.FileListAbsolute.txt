@@ -1,0 +1,10 @@
+Y:\Programming\C#\ScratchText\ScratchText\bin\Debug\ScratchText.exe.config
+Y:\Programming\C#\ScratchText\ScratchText\bin\Debug\ScratchText.exe
+Y:\Programming\C#\ScratchText\ScratchText\bin\Debug\ScratchText.pdb
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.csprojAssemblyReference.cache
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.Form1.resources
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.Properties.Resources.resources
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.csproj.GenerateResource.cache
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.csproj.CoreCompileInputs.cache
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.exe
+Y:\Programming\C#\ScratchText\ScratchText\obj\Debug\ScratchText.pdb
